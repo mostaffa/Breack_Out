@@ -7,7 +7,7 @@ import break_out.view.View;
  * The entry point of the program. The game get started here and all components
  * are initialized here.
  * 
- * @author dmlux, modified by I. Schumacher
+ * @author dmlux, modified by I. Schumacher.
  * 
  */
 public class Main {

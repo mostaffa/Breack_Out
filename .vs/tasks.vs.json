@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Main",
+      "appliesTo": "213-BreakOutA5/src/break_out/Main.java",
+      "type": "launch"
+    }
+  ]
+}
